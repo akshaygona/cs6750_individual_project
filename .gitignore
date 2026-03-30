@@ -1,0 +1,14 @@
+node_modules/
+dist/
+
+# OS/editor junk
+.DS_Store
+.idea/
+.vscode/
+
+# Local env files (keep sample/example files in-repo if you add them)
+.env
+.env.*
+
+# Logs
+*.log
